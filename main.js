@@ -30,7 +30,7 @@ function speak(){
     
 }
 
-webcam.set({
+Webcam.set({
     width:360,
     height:250,
     image_format:"png",
